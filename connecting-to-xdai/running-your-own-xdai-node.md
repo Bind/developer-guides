@@ -2,15 +2,15 @@
 
 ## Running your own xDAI node
 
-Dark Forest runs on the xDai blockchain. xDai like most blockchains is made up of a network of computers all talking to each other. Running your own "node" is just running a computer in the network. Having a dedicated node is a crucial part of managing a large empire. The investment to getting a node started can feel like a lot, but you can use it across rounds and is a huge advantage! The full node sync will take a couple days, but it should be hands off once it gets started!
+Dark Forest runs on the xDai blockchain. xDai like most blockchains is made up of a network of computers all talking to each other. Running your own "node" is just running a computer in the network. Having a dedicated node is a crucial part of managing a large empire. The investment to getting a node started can feel like a lot, but you can use it across rounds, and is a huge advantage! The full node sync will take a couple of days, but it should be hands-off once it gets started!
 
 ## You want to pay for it
 
 Use [QuickNode](https://www.quicknode.com/)! 
 
-They'll get you setup with a dedicated node instance fast but it can be more money than some folks want to pay.
+They'll get you set up with a dedicated node instance fast but it can be more money than some folks want to pay.
 
-## You have an extra computer that could run a node \(With atleast 30Gb of memory\)
+## You have an extra computer that could run a node \(With at least 30Gb of memory\)
 
 Check this out for another guide setting up a node: [https://forum.1hive.org/t/run-your-own-local-xdai-node-updated-for-berlin-hardfork/2875](https://forum.1hive.org/t/run-your-own-local-xdai-node-updated-for-berlin-hardfork/2875)
 
