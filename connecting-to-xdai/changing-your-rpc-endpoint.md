@@ -11,3 +11,4 @@ Last but not least, Pocket Network has gifted the Dark Forest community an xDAI 
 [https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d](https://poa-xdai.gateway.pokt.network/v1/lb/60b13899d3279c22da2a444d)
 
 Overtime, this will be scaled up to handle more traffic!
+

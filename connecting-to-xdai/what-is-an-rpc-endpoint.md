@@ -6,5 +6,5 @@ To connect to and retrieve data from a blockchain, you'll need to connect to a _
 
 The Ethereum [JSON-RPC spec](https://eth.wiki/json-rpc/API) defines the methods which you can use to retrieve data from a node. As a player or 3rd-party developer, you likely won't need to make RPC calls directly with this API--these calls are typically abstracted by web3 libraries like [ethers.js](https://docs.ethers.io/v5/).
 
-By default, the Dark Forest webclient will connect to https://rpc-df.xdaichain.com/, a public endpoint provided by the xDAI team. xDAI maintains a fleet of nodes which respond to requests made to this endpoint. There are other public endpoints you can connect to as well; if you'd like a dedicated node to serve your requests, you can also run your own xDAI node and connect to the endpoint it exposes.
+By default, the Dark Forest webclient will connect to [https://rpc-df.xdaichain.com/](https://rpc-df.xdaichain.com/), a public endpoint provided by the xDAI team. xDAI maintains a fleet of nodes which respond to requests made to this endpoint. There are other public endpoints you can connect to as well; if you'd like a dedicated node to serve your requests, you can also run your own xDAI node and connect to the endpoint it exposes.
 
